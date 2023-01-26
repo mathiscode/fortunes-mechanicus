@@ -21,7 +21,7 @@ sudo ln -s $(pwd)/mechanicus* /usr/share/games/fortunes
 echo "By the Will of the Omnissiah, it is done."
 ```
 
-## Litany of Wisdom
+## Litany of Divine Wisdom
 
 ```sh
 $ fortune mechanicus
