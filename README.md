@@ -10,12 +10,21 @@ A growing database of [Adeptus Mechanicus](https://warhammer40k.fandom.com/wiki/
 
 PRs welcome! (just don't forget to run `strfile mechanicus` to update mechanicus.dat)
 
-## How to install the Machine Spirit
+## Litany of Holy Installation
 
 ```sh
+echo "Machine God, hear our prayers and grant us access."
+sudo apt install fortune-mod # or your distro's equivalent
 git clone https://github.com/mathiscode/fortunes-mechanicus
 cd fortunes-mechanicus
 sudo ln -s $(pwd)/mechanicus* /usr/share/games/fortunes
+echo "By the Will of the Omnissiah, it is done."
+```
+
+## Litany of Wisdom
+
+```sh
+$ fortune mechanicus
 ```
 
 <p align="center">
