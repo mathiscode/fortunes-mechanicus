@@ -27,6 +27,20 @@ echo "By the Will of the Omnissiah, it is done."
 $ fortune mechanicus
 ```
 
+## Custom Cowfile
+
+A custom tech-priest file is included to be used with [cowsay](https://en.wikipedia.org/wiki/Cowsay)
+
+This cowfile is based on the wizard cowfile of [Paul Kaefer's cowfiles](https://github.com/paulkaefer/cowsay-files)
+
+```sh
+$ fortune mechanicus | cowsay -f ./tech-priest.cow
+```
+
+```
+
+```
+
 <p align="center">
   <img src="https://static.wixstatic.com/media/748239_ba839dbb0e8341baa7e9ed5460225997~mv2_d_3840_2160_s_2.png/v1/fit/w_2500,h_1330,al_c/748239_ba839dbb0e8341baa7e9ed5460225997~mv2_d_3840_2160_s_2.png" />
 
