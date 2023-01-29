@@ -14,10 +14,11 @@ PRs welcome! (just don't forget to run `strfile mechanicus` to update mechanicus
 
 ```sh
 echo "Machine God, hear our prayers and grant us access."
-sudo apt install fortune-mod # or your distro's equivalent
+sudo apt install git fortune-mod cowsay # or your distro's equivalent, if not already installed
 git clone https://github.com/mathiscode/fortunes-mechanicus
 cd fortunes-mechanicus
 sudo ln -s $(pwd)/mechanicus* /usr/share/games/fortunes
+sudo ln -s $(pwd)/tech-priest.cow /usr/share/cowsay/cows/ # optional if cowsay isn't needed
 echo "By the Will of the Omnissiah, it is done."
 ```
 
@@ -25,6 +26,8 @@ echo "By the Will of the Omnissiah, it is done."
 
 ```sh
 $ fortune mechanicus
+
+Knowledge will ever be a blessing and a curse. -Levistians, 9.22
 ```
 
 ## Litany of Bovine Wisdom
