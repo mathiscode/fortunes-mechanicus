@@ -27,18 +27,44 @@ echo "By the Will of the Omnissiah, it is done."
 $ fortune mechanicus
 ```
 
-## Custom Cowfile
+## Litany of Bovine Wisdom
 
-A custom tech-priest file is included to be used with [cowsay](https://en.wikipedia.org/wiki/Cowsay)
+A custom Tech-Priest file is included to be used with [cowsay](https://en.wikipedia.org/wiki/Cowsay).
 
-This cowfile is based on the wizard cowfile of [Paul Kaefer's cowfiles](https://github.com/paulkaefer/cowsay-files)
+This cowfile is based on the wizard from [Paul Kaefer's cowfiles](https://github.com/paulkaefer/cowsay-files), and needs some more work from someone better at it than me.
 
-```sh
+```txt
 $ fortune mechanicus | cowsay -f ./tech-priest.cow
-```
 
-```
-
+/ Verily it is written that the Omnissiah \
+| grants His blessing to those who come   |
+| well-equipped with explosives.          |
+\ -Aphorisms 96.9                         /
+ -----------------------------------------
+  \
+   \
+                   |^|  
+      |            |-|
+      (0.o)    ___/_*_\__     |
+        \\    /   ____   \(0.o)
+         \\_\_) /_____\ /_|//
+      /\     /_((\0_0/))_\// /^\
+     //\\    \ \()[ ])(()// > 0 }
+    //  \\// ' \(([_]))/ /   \ /
+   < >   \/ / ' \)).))\ '\  =//=
+           / _ \ - | - /_ \ //
+          (   ( .;''';. .'  )
+          _\"__ /    )\ __"/_
+            \/  \   ' /  \/
+             .'  '...' '  )
+              / /  |   \  \
+             / .   .    .  \
+            /   .      .    \
+           /   /   |    \    \
+         .'   /    b     '.   '.
+     _.-'    /     Bb      '-.  '-_
+ _.-'       |      BBb        '-.  '-.
+(_______________.dBBBb._________)____)
 ```
 
 <p align="center">
