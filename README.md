@@ -70,6 +70,13 @@ $ fortune mechanicus | cowsay -f ./tech-priest.cow
 (_______________.dBBBb._________)____)
 ```
 
+## Counsel
+
+- If you want a Mechanicum-y font for your system, check out [Exocet](https://en.wikipedia.org/wiki/Exocet_(typeface))
+- You may or may not like another project I'm working on: [web3os](https://github.com/web3os-org/kernel#readme)
+- Like & subscribe; SMASH that Star button
+- Don't do a heresy
+
 <p align="center">
   <a href="https://www.mechanicus40k.com/">
     <img src="https://static.wixstatic.com/media/748239_ba839dbb0e8341baa7e9ed5460225997~mv2_d_3840_2160_s_2.png/v1/fit/w_2500,h_1330,al_c/748239_ba839dbb0e8341baa7e9ed5460225997~mv2_d_3840_2160_s_2.png" />
