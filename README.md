@@ -39,7 +39,7 @@ A custom Tech-Priest file is included to be used with [cowsay](https://en.wikipe
 This cowfile is based on the wizard from [Paul Kaefer's cowfiles](https://github.com/paulkaefer/cowsay-files), and needs some more work from someone better at it than me.
 
 ```
-$ fortune mechanicus | cowsay -f ./tech-priest.cow
+$ fortune mechanicus | cowsay -f tech-priest
 
 / Verily it is written that the Omnissiah \
 | grants His blessing to those who come   |
