@@ -76,6 +76,7 @@ $ fortune mechanicus | cowsay -f tech-priest
 
 - If you want a Mechanicum-y font for your system, check out [Exocet](https://en.wikipedia.org/wiki/Exocet_(typeface))
 - You may or may not like another project I'm working on: [web3os](https://github.com/web3os-org/kernel#readme)
+- Or this one: [Imagined.Quest](https://imagined.quest)
 - Like & subscribe; SMASH that Star button
 - Don't do a heresy
 
