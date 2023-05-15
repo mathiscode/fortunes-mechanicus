@@ -1,8 +1,10 @@
 # Fortunas Mechanicus
 
+<!-- I'm not sure I like the badges anymore
 [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/oooo-kill-em.svg)](https://forthebadge.com)
+-->
 
 > From the moment I understood the weakness of my flesh, it disgusted me. I craved the strength and certainty of steel. I aspired to the purity of the Blessed Machine. Your kind cling to your flesh, as though it will not decay and fail you. One day the crude biomass you call the temple will wither, and you will beg my kind to save you. But I am already saved, for the Machine is immortal… Even in death I serve the Omnissiah.
 
@@ -37,7 +39,7 @@ A custom Tech-Priest file is included to be used with [cowsay](https://en.wikipe
 This cowfile is based on the wizard from [Paul Kaefer's cowfiles](https://github.com/paulkaefer/cowsay-files), and needs some more work from someone better at it than me.
 
 ```
-$ fortune mechanicus | cowsay -f ./tech-priest.cow
+$ fortune mechanicus | cowsay -f tech-priest
 
 / Verily it is written that the Omnissiah \
 | grants His blessing to those who come   |
@@ -74,6 +76,7 @@ $ fortune mechanicus | cowsay -f ./tech-priest.cow
 
 - If you want a Mechanicum-y font for your system, check out [Exocet](https://en.wikipedia.org/wiki/Exocet_(typeface))
 - You may or may not like another project I'm working on: [web3os](https://github.com/web3os-org/kernel#readme)
+- Or this one: [Imagined.Quest](https://imagined.quest)
 - Like & subscribe; SMASH that Star button
 - Don't do a heresy
 
